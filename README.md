@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![image](https://github.com/user-attachments/assets/98cb49e6-d180-4a57-b940-ae1abf18cd1f)
+
 <!--
 **dianaflorez/dianaflorez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
